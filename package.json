@@ -1,0 +1,28 @@
+{
+  "name": "koishi-plugin-yulu-fork",
+  "description": "适用于koishi-satori的语录插件[Fork]",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "contributors": [
+    "Yis_Rime <yis_rime@outlook.com>",
+    "tsukishima1321 <18001751830@163.com>"
+  ],
+  "homepage": "https://github.com/YisRime/koishi-plugin-yulu-fork",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YisRime/koishi-plugin-yulu-fork.git"
+  },
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.16.2"
+  }
+}
